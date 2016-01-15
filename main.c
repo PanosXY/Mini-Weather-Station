@@ -1,3 +1,9 @@
+/*
+@author: Panagiotis Skiadas
+@brief:  This program reads Luminosity, Temperature, Humidity
+         and transmits them through the Serial Port every 20 secs
+*/
+
 #include "Types.h"
 #include "Resources.h"
 #include "LightSensor.h"
